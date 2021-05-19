@@ -4,5 +4,6 @@ MyAirplaneFork-Server
 last-airplane
 build/
 .gradle/
+.idea
 
 launcher-*.jar
